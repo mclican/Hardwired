@@ -1,6 +1,6 @@
 # Welcome to Hardwired
 
-## Yup
+## Yup It's named Hardwired from Metallica
 
 ### Markdown
 
